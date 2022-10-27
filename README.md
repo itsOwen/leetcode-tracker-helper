@@ -1,3 +1,5 @@
+![alt text](https://github.com/itsOwen/leetcode-tracker-helper/blob/main/leetcode.png)
+
 I have created a very simple template for everyone to use. This template is generally created for programmers who want to track their Leetcode Progress.
 
 This is a notion template for keeping track of your Leetcode question, This was made for people who aren’t able to properly track their Leetcode Progress. This one of the best template ever made on Notion.
