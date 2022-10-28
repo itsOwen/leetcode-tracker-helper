@@ -25,6 +25,7 @@ All you have to do is make a duplicate for this template and then you can easily
 - Progress Tracker
 - Quick Links
 - Notes - To add your notes for every single question
+- Daily Motivational Quotes
 
 **_The person who does one Leetcode question every single day regardless of how they feel will always beat the person who does it when they feel like doing it._**
 
